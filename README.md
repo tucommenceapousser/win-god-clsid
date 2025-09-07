@@ -6,6 +6,76 @@ Ce projet permet de **scanner, lister et créer tous les CLSID Windows**, avec d
 
 ---
 
+
+## 📂 CLSID cachés Windows
+ 
+ 
+À utiliser comme : `Nom.{CLSID}`
+ 
+ 
+### ⚙️ Réglages & configuration
+ 
+ 
+- **GodMode (tous les réglages)** `{ED7BA470-8E54-465E-825C-99712043E01C}`
+ 
+- **Panneau de configuration** `{21EC2020-3AEA-1069-A2DD-08002B30309D}`
+ 
+- **Paramètres PC (Windows 10/11)** `{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}`
+ 
+
+ 
+### 🖥️ Système
+ 
+ 
+- **Centre Réseau et partage** `{8E908FC9-BECC-40F6-915B-F4CA0E70D03D}`
+ 
+- **Connexions réseau** `{7007ACC7-3202-11D1-AAD2-00805FC1270E}`
+ 
+- **Gestionnaire de périphériques** `{74246bfc-4c96-11d0-abef-0020af6b0b7a}`
+ 
+- **Outils administratifs** `{D20EA4E1-3957-11D2-A40B-0C5020524153}`
+ 
+- **Gestion des disques** `{74246bfc-4c96-11d0-abef-0020af6b0b7a}`
+ 
+
+ 
+### 📑 Fichiers & bibliothèques
+ 
+ 
+- **Mes Documents** `{450D8FBA-AD25-11D0-98A8-0800361B1103}`
+ 
+- **Mes Images** `{7BD29E00-76C1-11CF-9DD0-00A0C9034933}`
+ 
+- **Téléchargements** `{374DE290-123F-4565-9164-39C4925E467B}`
+ 
+
+ 
+### 🛠️ Divers outils
+ 
+ 
+- **Programmes et fonctionnalités (désinstaller)** `{7b81be6a-ce2b-4676-a29e-eb907a5126c5}`
+ 
+- **Pare-feu Windows** `{4026492F-2F69-46B8-B9BF-5654FC07E423}`
+ 
+- **Tâches planifiées** `{D6277990-4C6A-11CF-8D87-00AA0060F5BF}`
+ 
+- **Journal des événements** `{F3A614DC-ABE0-11D1-8FB1-00A0C90F26F9}`
+ 
+- **Politiques de sécurité locales** `{62D8ED13-C9D0-4CE8-A914-47DD628FB1B0}`
+ 
+- **Gestion de l’ordinateur** `{20D04FE0-3AEA-1069-A2D8-08002B30309D}`
+ 
+
+ 
+### 🎵 Multimédia
+ 
+ 
+- **Périphériques audio** `{0F6F268D-6D61-4B15-B06C-9381D06236CC}`
+ 
+- **Caméras et scanners** `{6bdd1fc6-810f-11d0-bec7-08002be2092f}`
+
+---
+
 ## 📂 Contenu du projet
 
 | Script | Description |
