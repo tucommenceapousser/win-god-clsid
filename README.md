@@ -165,6 +165,24 @@ Chaque nom correspondra à un CLSID créé sur le Bureau.
 - Linux Bash (`trkn-god.sh`) nécessite un environnement supportant `mkdir` et lecture de `.txt`
 
 ---
+## Super God Mode
+
+### download
+
+```
+https://github.com/ThioJoe/Windows-Super-God-Mode/releases/download/v1.2.2/SuperGodMode-EasyLauncher.bat
+```
+```
+https://github.com/ThioJoe/Windows-Super-God-Mode/releases/download/v1.2.2/Super_God_Mode.ps1
+```
+
+### execute
+
+```
+SuperGodMode-EasyLauncher.bat
+```
+
+---
 
 ## 🔗 Liens utiles
 
