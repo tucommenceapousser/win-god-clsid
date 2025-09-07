@@ -6,6 +6,12 @@ Ce projet permet de **scanner, lister et créer tous les CLSID Windows**, avec d
 
 ---
 
+### Zip of folder with some clsid ready to use on your desktop
+
+```
+https://github.com/tucommenceapousser/win-god-clsid/releases/download/1.0/clsid.zip
+```
+
 
 ## 📂 CLSID cachés Windows
  
